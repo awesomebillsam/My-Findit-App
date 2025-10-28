@@ -1,0 +1,7 @@
+{
+  "name": "FindIt - AI-Powered Lost & Found",
+  "description": "A smart mobile application to help users locate, report, and recover lost or missing items using AI-powered image recognition, location mapping, and crowdsourced data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
